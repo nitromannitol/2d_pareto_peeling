@@ -9,8 +9,7 @@ Please see Pelegrin-Fernandez or Section 8 of [Hamilton-Jacobi scaling limits of
 Our implementation also includes a fix to Step 4 of Pelegrin-Fernandez. 
 
 ## Requirements
-This code requires Julia 1.5.0. It might work with newer versions but has only been tested for version 1.5.0.  
-The external libraries, Plots with backend GRPlots, and LinearAlgebra are also requried. 
+This code requires Julia 1.5.0-1.7.0. It might work with newer versions but has only been tested for versions 1.5.0-1.7.0. The external libraries, Plots with backend GRPlots, and LinearAlgebra are also requried. 
 
 ## Usage 
 See run_gift_wrapping.jl for sample usage of this code. 
